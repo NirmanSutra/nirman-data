@@ -1,0 +1,163 @@
+Sr.No.,Description of Machine,Unit,Cap.,Rate
+1, Dozer D-8 H Heavy, Hour, 270 HP, 4190
+2, Dozer D 80 A 12 Medium, Hour, 180 HP, 3892
+3, Shantui Dozer SD13, Hour, 130 HP, 2353
+4, Shantui Dozer SD16, Hour, 160 HP, 2808
+5, BEML BD 80, Hour, 180 HP, 2661
+6, Hydraulic Excavator BEML BE 200, Tata Hitachi EX200 or equivalent, Hour, 0.9 Cum, 2180
+7, Hydraulic Excavator BEML BE 200, Tata Hitachi EX200 or equivalent, Day, 0.9 Cum, 17440
+8, Excavator JCB JS 80, Hour, 0.9 Cum, 1303
+9, Excavator JCB JS 80, Day, 0.9 Cum, 10424
+10, Excavator Tata Hitachi EX100, Hour, 0.6 Cum, 1642
+11, Excavator Tata Hitachi EX100, Day, 0.6 Cum, 13136
+12, Excavator JCB JS140 / Tata Hitachi EX120 for scrapping, Hour, 0.6 Cum, 1692
+13, Excavator JCB JS140 / Tata Hitachi EX120, Day, 0.6 Cum, 13536
+14, Hydraulic Excavator Tata Hitachi EX 350, Hour, 1.7 Cum, 3342
+15, Hydraulic Excavator Tata Hitachi EX 350, Day, 1.7 Cum, 26736
+16, Hydraulic Excavator wheeled, Hour, 0.3 Cum, 1159
+17, Hydraulic Excavator wheeled, Day, 0.3 Cum, 9273
+18, Loader Bucket capacity, Hour, 1.00 Cum, 1072
+19, Loader Bucket capacity, Day, 1.00 Cum, 8576
+20, Loader bucket capacity, Hour, 2.0 Cum, 2095
+21, Loader bucket capacity, Day, 2.0 Cum, 16760
+22, Motor grader 3.35 mtr Blade, Hour, 145 HP, 2132
+23, Komatsu GD 605 A3 / BEML GD 605 R-2 Grader, Hour, , 2071
+24, Tandem Vibratory Road Roller 8 MTe, Hour, 8 MT, 2155
+25, ACE Soil Compactor 10 T / Avelling Barford vib. Comp., Hour, 10 MT, 1219
+26, DRR 8 / 10 MT, Hour, 8 MT, 709
+27, Static Road Roller 8 MT, Hour, 8 MT, 828
+28, Pneumatic Road Roller, Hour, 8 MT, 1318
+29, Manual roller 0.5 MT to 1 MT, Hour, 0.5 to 1 MT, 223
+30, Manual roller 0.5 MT to 1 MT, Day, 0.5 to 1 MT, 1779
+31, Tipper 10 cum, Km, 10 Cum, 54
+32, Tipper 10 cum 20 Km/Hr, Hour, 10 Cum, 1082
+33, Tipper 10 MT, Km, 10 MT, 54
+34, Tipper 10 MT, Hour, 10 MT, 1082
+35, Eicher Tipper 8.5 Cum, Km, 8.5 Cum, 76
+36, Eicher Tipper 8.5 Cum, Hour, 8.5 Cum, 1528
+37, Tipper 7.5 MT, Km, 7.5 MT, 49
+38, Tipper 7.5 MT, Hour, 7.5 MT, 982
+39, Tipper TATA LPK 2518 BS III, Km, 25 MT, 77
+40, Tipper TATA LPK 2518 BS III, Hr, 25 MT, 1542
+41, Mahindra Blazo X 25 25 MT, Km, 25 MT, 106
+42, Mahindra Blazo X 25 25 MT, Hr, 25 MT, 2126
+43, Mahindra Blazo 28 MT 2022 New Machine, Km, 28 MT, 110
+44, Mahindra Blazo 28 MT 2022 New Machine, Hr, 28 MT, 2206
+45, Tractor, Hour, 35 HP, 420
+46, Tractor with rotevator, Hour, 35 HP, 443
+47, Tractor with Ripper, Hour, 35 HP, 779
+48, Water Tanker 9000 litr., Hour, 9000 Litr., 960
+49, Water Tanker 15 km per Hour, Km, 9000 Litr., 64
+50, Truck 7.5 MT, Km, 7.5 MT, 53
+51, Tata 407, Km, 85 HP, 32
+52, Air Compressor 175 cfm, Hour, 175 cfm, 815
+53, Air Compressor 260/250 cfm, Hour, 250 cfm, 869
+54, Air Compressor 400 cfm, Hour, 400 cfm, 910
+55, Air Compressor 510 cfm, Hour, 510 cfm, 952
+56, Bitumen Pressure Distributor Spray Bar Width 4.5 Mtr., Hour, 4 to 9 KLtr., 1552
+57, Bitumen Boiler oil fired, Hour, 2000 Ltr., 246
+58, Emulsion Pressure Distrubutor, Hour, 4 to 9 KLtr., 1299
+59, Hot Mix Plant 90-120 TPH capacity Drum Mix Plant with SCADA DM-60, Hour, 90 TPH, 22523
+60, Hot Mix Plant 60-90 TPH capacity Drum Mix Plant with SCADA DM-60, Hour, 60 TPH, 19058
+61, Hot Mix Plant 40-60 TPH capacity Drum Mix Plant with SCADA DM-50, Hour, 40 TPH, 17325
+62, Hydraulic chip Spreader 3 Mtr.Width, Hour, 3 Mtr., 516
+63, Integrated SMT Crusher 100 TPH, Hour, 100 TPH, 15917
+64, Integrated SMT Crusher 200 TPH, Hour, 200 TPH, 18860
+65, Mastic Cooker, Hour, , 1162
+66, Mechanical Broom Hydraulic Width 2.25 Mtr., Hour, 2.25 Mtr., 454
+67, Paver Finisher Hydrostatic with sensor control 100TPH, Hour, 100 TPH, 3773
+68, Paver Finisher Mechanical 100 TPH, Hour, 100 TPH, 1510
+69, Paver Finisher 7.5 Meter, Hour, , 1977
+70, Paver Finisher 7.5 Meter, Day, , 15815
+71, Paver Finisher 7.5 Meter, Month, , 411200
+72, Pot Hole Repair kit mounted on truck, Hour, , 479
+73, Road Marking Machine, Hour, , 127
+74, Batch Mix Asphalt Plant 160 TPH with SCADA, Hour, 160 TPH, 39328
+75, Batch Mix Asphalt Plant 120 TPH with SCADA, Hour, 120 TPH, 32773
+76, Batch Mix Asphalt Plant 80 TPH with SCADA, Hour, 80 TPH, 26219
+77, Dumper 6 cum Capacity with VTS, Hour, 6 Cum, 1151
+78, Batching and mixing plant a 30 cum capacity with SCADA, Hour, 30 cum, 2198
+79, Batching and mixing plant b 15-20 cum capacity with SCADA, Hour, 15-20 cum, 1886
+80, Concrete Paver Finisher with 40 HP Motor, Hour, , 3263
+81, Concrete Pump of 45 & 30 cum capacity, Hour, 30 - 45 cum, 907
+82, Concrete Bucket, Hour, 1 cum, 60
+83, Concrete Mixer a 0.28 - 04 cum, Hour, 0.28 - 04 cum, 563
+84, Concrete Mixer b 1 cum, Hour, 1 cum, 755
+85, Reversible drum concrete mixer with SCADA, Hour, 1 Cum, 875
+86, Transit Mixer 4.0/4.5 cum, Hour, 4 - 4.5 cum, 1761
+87, Transit Mixer 4/4.5 cum, t.km, 4 - 4.5 cum, 13
+88, Transit Mixer 3.0 cum, Hour, 3 cum, 1383
+89, Transit Mixer 3.0 cum, t.km, 3 cum, 11
+90, Cement concrete batch mix plant @ 175 cum per hour effective output with SCADA, Hour, 175 cum, 13203
+91, Cement concrete batch mix plant @ 75 cum per hour with SCADA, Hour, 75 cum, 8173
+92, Wet Mix Plant 100 TPH, Hour, 100 TPH, 5029
+93, Wet Mix Plant 75 TPH, Hour, 75 TPH, 3773
+94, Wet Mix plant 60 TPH, Hour, 60 TPH, 2318
+95, Vibrator Electrical, Hour, , 189
+96, Vibrator Diesel, Day, , 1197
+97, Crane a 80 MT, Hour, 80 MT, 3234
+98, Crane 40 MTe capacity, Hour, 40 MT, 2950
+99, Cloes Endurence 30 MT, Hour, 30 MT, 2587
+100, Cloes Hydra 830- 30 MT, Hour, 30 MT, 2778
+101, Voltas Omega -35 cap - 30 MT, Hour, 30 MT, 2085
+102, Crane 20 MT capacity, Hour, 20 MT, 2425
+103, Crane 15 MT capacity, Hour, 15 MT, 2123
+104, Crane 10 MT capacity, Hour, 10 MT, 1408
+105, Crane 5 MT capacity, Hour, 5 MT, 705
+106, Cranes c 3 MT, Hour, 3 MT, 553
+107, Generator 325 KVA, Hour, 325 KVA, 2994
+108, Generator 250 KVA, Hour, 250 KVA, 2395
+109, Generator a 125 KVA, Hour, 125 kva, 1541
+110, Generator a 100 KVA, Hour, 100 kva, 1107
+111, Generator b 63 KVA, Hour, 63 kva, 1107
+112, Generator 33 KVA, Hour, 33 KVA, 590
+113, Generator 41 to 60 KVA, Hour, 41 to 60 kva, 792
+114, Generator 31 - 40 Kva, Hour, 31-40 Kva, 590
+115, Generator 10 to 20 Kva, Hour, 10 to 20 Kva, 485
+116, GSB Plant 50 cum, Hour, 50 Cum, 2186
+117, Kerb Casting Machine, Hour, , 659
+118, Piling Rig with BanMTite Pump, Hour, , 5658
+119, Ripper, Hour, , 31
+120, Rotavator, Hour, , 24
+121, Truck 5.5 cum per 10 MT, Km, 10 MT, 58
+122, Truck 5.5 cum per 10 MT, Hour, 10 MT, 1150
+123, Truck 5.5 cum per 10 MT, t.km, 10 MT, 6
+124, Air Compressor with pneumatic chisel attachment for cutting hard clay 400 CFM, Hour, CFM, 911
+125, Belt conveyor system, Hour, , 150
+126, Boat to carry atleast 20 persons, Hour,  659
+127, Cold mining machine @ 20 cum per hour, Hour, 180
+128, Compressor with guniting equipment along with accessories 260/250 CFM, Hour, CFM, 867
+129, Joint cutting machine with 2-3 blades for rigid pavement, Hour, , 1006
+130, Jack for lifting 40 MT capacity, Day, 40 MT, 3592
+131, Piling ring including double acting pile driving hammer Hydraulic ring, Hour, , 5658
+132, Plate Compactor, Hour, , 186
+133, Texturing machine for rigid pavement, Hour, , 174
+134, Transporter Tata Prima-49 MT, Km, 49 MT, 103
+135, Mahindra Transporter - 35 T 2016, Km, 35 MT, 74
+136, Mahindra Truxo 25 T, , 25 MT, 67
+137, Mack Euclid A.L. Beaver 20 MT, Km, 20 MT, 59
+138, Truck Trailor 30 MT capacity, Hour, 30 MT, 1363
+139, Truck Trailor 30 MT capacity, Km, 30 MT, 3
+140, Vibrating Pile driving hammer complite with power unit and accessories, Hour, , 5658
+141, Pile boring machinary 325-400 mm dia., R.Mt, , 224
+142, Pumping Charges, Cmt, , 252
+143, Pumping Set 2 to 9 HP, Hour, 2 to 9 HP, 367
+144, Pile Boaring Machine 325 to 400 mm, Day, , 5922
+145, Pile Boaring Machine 425 to 500 mm, Day, , 5125
+146, Pile Boaring Machine 525 to 600 mm, Day, , 5702
+147, Pile Boaring Machine 625 to 700 mm, Day, , 6842
+148, Pile Boaring Machine 725 to 1050 mm, Day, , 7424
+149, BenMTite Pump, Day, , 91
+150, Guiniting Gun, Hour, , 310
+151, Chain and pully, Day, , 300
+152, Welding machine, Day, , 420
+153, Diesel welding Plant 30 Hp, Hour, 30 HP, 579
+154, Electric drill machin, Day, , 420
+155, Electric gas cutting, Day, , 294
+156, Rammer, Hour, , 188
+157, Polishing machine with Polishman, Day, , 970
+158, Tile Cutting Machine, Hour, , 39
+159, Hand polishing with Polishman, Day, , 730
+160, Tile Polishing machine Grinder, Day, , 222
+161, Bronto Sky Lift Bridge Inspection Unit, Hour, , 4017
+162, Hire Charges of Driver Including All Taxes, Day, , 878
