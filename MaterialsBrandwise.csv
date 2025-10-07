@@ -1,0 +1,43 @@
+ID,Material,Brand,Unit,Price
+1,Cement,UltraTech,50kg_bag,395
+2,Cement,ACC,50kg_bag,380
+3,Cement,Ambuja,50kg_bag,370
+4,TMT Steel / Rebars,Tata Tiscon,per_ton,54000
+5,TMT Steel / Rebars,JSW,per_ton,55000
+6,TMT Steel / Rebars,SAIL,per_ton,53000
+7,Structural Steel,JSW,per_ton,57500
+8,Structural Steel,Tata Steel,per_ton,57000
+9,Structural Steel,Essar Steel,per_ton,56000
+10,Ready-Mix Concrete (RMC),UltraTech RMC,per_cum,4800
+11,Ready-Mix Concrete (RMC),ACC ReadyMix,per_cum,4700
+12,Ready-Mix Concrete (RMC),Birla ReadyMix,per_cum,4600
+13,Tiles (Ceramic / Vitrified),Kajaria,per_sqm,120
+14,Tiles (Ceramic / Vitrified),Somany,per_sqm,110
+15,Tiles (Ceramic / Vitrified),Nitco,per_sqm,140
+16,Sanitaryware,Hindware,per_piece,3500
+17,Sanitaryware,Cera,per_piece,4000
+18,Sanitaryware,Parryware,per_piece,3200
+19,CPVC / PVC Pipes & Fittings,Astral,per_meter_equiv,120
+20,CPVC / PVC Pipes & Fittings,Finolex,per_meter_equiv,110
+21,CPVC / PVC Pipes & Fittings,Supreme,per_meter_equiv,100
+22,Electrical Wires & Cables,Havells,per_meter_equiv,45
+23,Electrical Wires & Cables,Polycab,per_meter_equiv,40
+24,Electrical Wires & Cables,Finolex,per_meter_equiv,38
+25,Switches & Electrical Fittings,Legrand,per_piece,350
+26,Switches & Electrical Fittings,Anchor (Panasonic),per_piece,220
+27,Switches & Electrical Fittings,Havells,per_piece,300
+28,Paints & Coatings,Asian Paints,per_litre,260
+29,Paints & Coatings,Berger Paints,per_litre,240
+30,Paints & Coatings,Nerolac,per_litre,230
+31,Plywood / Blockboard,Greenply,per_sheet_8x4_ft,2200
+32,Plywood / Blockboard,CenturyPly,per_sheet_8x4_ft,2100
+33,Plywood / Blockboard,Archidply,per_sheet_8x4_ft,2000
+34,Flush Doors / Veneer Doors,Duro,per_piece_standard,4200
+35,Flush Doors / Veneer Doors,Greenply,per_piece_standard,4000
+36,Flush Doors / Veneer Doors,Century Doors,per_piece_standard,3800
+37,Glass (Float / Toughened),Saint-Gobain,per_sqm,750
+38,Glass (Float / Toughened),Asahi India (AIS),per_sqm,720
+39,Glass (Float / Toughened),Modi Guard,per_sqm,680
+40,Laminates & Decorative Surfaces,Greenlam,per_sheet_8x4_ft,650
+41,Laminates & Decorative Surfaces,Merino,per_sheet_8x4_ft,600
+42,Laminates & Decorative Surfaces,Century Laminates,per_sheet_8x4_ft,580
